@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!--- app-name: MySQL -->
 
 # Bitnami package for MySQL
@@ -815,3 +816,7 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+=======
+# mysqlforn8n
+n8n my sql with seph block
+>>>>>>> ad2c243da66b60457feb3485da38379550570260
